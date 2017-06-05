@@ -1,7 +1,7 @@
 #!/usr/bin/python
 #coding=utf-8
-import tech_163
-import auto_163
+from mod import tech_163
+from mod import auto_163
 
 import pymongo
 import sys

@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #coding=utf-8
-import tech_163
+from mod import tech_163
 import MySQLdb
 import sys
 reload(sys)
