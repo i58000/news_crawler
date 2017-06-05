@@ -12,10 +12,12 @@
 
 define a news item as:
 
-```item = {'title': title,
-            'date': date,
-            'content': content,
-            'cate': 'tech',
-            'src': '163',
-            'link': link,
-    }```
+```
+item = {'title': title,
+        'date': date,
+        'content': content,
+        'cate': 'tech',
+        'src': '163',
+        'link': link,
+        }
+```
