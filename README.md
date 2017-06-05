@@ -8,6 +8,6 @@
 2. `import *`
 3. add it to `mod = [tech_163, auto_163, *]`
 
-define a news item as:
-`item = {'title': title
-         'date:' date`
+define a news item as:</br>
+`item = {'title': title</br>
+         'date:' date</br>`
